@@ -1,0 +1,11 @@
+# OS files
+.DS_Store
+
+# Editor files
+.vscode/
+*.swp
+
+# Large bio files (optional later)
+*.bam
+*.sam
+*.fastq.gz
