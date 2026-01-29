@@ -1,0 +1,6 @@
+data/
+*.fasta
+*.fa
+*.fastq
+*.fq
+*.gz
